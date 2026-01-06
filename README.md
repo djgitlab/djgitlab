@@ -78,5 +78,5 @@ All repositories are intentionally sanitized.
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: https://www.linkedin.com/in/mylinkedinTBD
+- GitHub: https://github.com/djgitlab
